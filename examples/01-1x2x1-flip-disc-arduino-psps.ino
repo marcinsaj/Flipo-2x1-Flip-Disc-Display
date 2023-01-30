@@ -1,8 +1,8 @@
 /*----------------------------------------------------------------------------------*
  * A simple example of controlling one 2x1 flip-disc display                        *
- * Example connection diagram: https://bit.ly/1x2x1-ARD                            *
+ * Example connection diagram: https://bit.ly/1x2x1-ARD                             *
  *                                                                                  *
- * Project website: https://bit.ly/2x1DOT-FD                                           *
+ * Project website: https://bit.ly/2x1DOT-FD                                        *
  * Marcin Saj 30 Jan 2023                                                           *
  * https://www.Flipo.io                                                             *
  *                                                                                  *
