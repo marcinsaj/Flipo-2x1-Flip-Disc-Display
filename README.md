@@ -12,6 +12,8 @@
  - [Connection diagram - Arduino & Pulse Shaper Power Supply Module](https://github.com/marcinsaj/Flipo-2x1-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x1-Dot-Module-Arduino-Example-Connection-Schematic.pdf)
  - [Connection diagram - dedicated Arduino Controller](https://github.com/marcinsaj/Flipo-2x1-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x1-Dot-Module-Controller-Example-Connection-Schematic.pdf)
  - [Example connection with 7-Segment displays](https://github.com/marcinsaj/Flipo-2x1-Flip-Disc-Display/raw/main/datasheet/Flip-disc-2x1-Dot-Module-7-Segment-Controller-Example-Connection-Schematic.pdf)
- 
+
+-------------------------------------------------------------------  
+
 <a href="https://flipo.io/project/flip-disc-2x1-display/"><img src="https://github.com/marcinsaj/Flipo-2x1-Flip-Disc-Display/blob/main/extras/flip-disc-2x1-display-cover-github.jpg"></a> 
 </br>
