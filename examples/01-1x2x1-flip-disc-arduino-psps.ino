@@ -6,10 +6,7 @@
  * Marcin Saj 30 Jan 2023                                                           *
  * https://www.Flipo.io                                                             *
  *                                                                                  *
- * Arduino board with a power module or dedicated controller is required to operate *
- * the display:                                                                     *
- * 1. Arduino board + Pulse Shaper Power Supply - https://bit.ly/PSPS-FD            *
- * 2. Or dedicated controller - https://bit.ly/AC1-FD                               *
+ * Pulse Shaper Power Supply module is required - https://bit.ly/PSPS-FD            *
  *----------------------------------------------------------------------------------*/
 
 /* The library <FlipDisc.h> uses SPI to control flip-disc displays. 
