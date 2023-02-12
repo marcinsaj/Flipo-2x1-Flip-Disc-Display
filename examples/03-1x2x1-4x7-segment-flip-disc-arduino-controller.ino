@@ -153,8 +153,7 @@ void loop()
   Flip.Matrix_7Seg(D, I, S, C);
   Flip.Display_2x1(1, 1, 1);
   delay(3000);
-   
- 
+  
   /* 7-Segment displays allow the display of numbers and symbols.
   Symbols can be displayed using their code name or number e.g. 37/DEG - "°" Degree symbol
   The full list of symbols can be found in the FlipDisc.h library repository https://github.com/marcinsaj/FlipDisc
