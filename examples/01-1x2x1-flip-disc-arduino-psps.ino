@@ -6,7 +6,7 @@
  * Marcin Saj 30 Jan 2023                                                           *
  * https://www.Flipo.io                                                             *
  *                                                                                  *
- * Pulse Shaper Power Supply module is required - https://bit.ly/PSPS-FD            *
+ * Pulse Shaper Power Supply module is required: https://bit.ly/PSPS-FD             *
  *----------------------------------------------------------------------------------*/
 
 /* The library <FlipDisc.h> uses SPI to control flip-disc displays. 
